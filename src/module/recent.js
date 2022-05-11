@@ -1,4 +1,5 @@
 import ApiClient from './GetScore.js';
+
 export default () => {
   const wrapper = document.createElement('div');
   wrapper.classList.add('scores');
