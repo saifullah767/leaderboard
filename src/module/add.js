@@ -1,4 +1,4 @@
-import ApiClient from './PostScore.js';
+import ApiClient from './RetriveScore.js';
 import Score from './score.js';
 
 export default () => {
