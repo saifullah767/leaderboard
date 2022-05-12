@@ -33,6 +33,7 @@ h3 {
   list-style: none;
   padding-left: 0;
   border-radius: 10px;
+  margin-top: 1rem;
 }
 
 .scores-list .recent-score {
@@ -57,6 +58,7 @@ h3 {
 button {
   padding: 8px;
   box-shadow: 6px 6px #d9d9d9;
+  border-radius: 15px;
 }
 
 button:hover {
